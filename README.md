@@ -11,7 +11,7 @@
 ## Requirements
 
 ### **Hardware**
-- Arduino MKR WiFi 1010 (or compatible board)
+- Arduino board
 - Servo motor
 - Phototransistor
 - I2C LCD display
