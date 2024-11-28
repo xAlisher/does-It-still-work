@@ -1,6 +1,6 @@
 # DoesItStillWork
 
-**DoesItStillWork** is an Arduino-based project for monitoring the success rate of power cycles for devices with an LCD screen or power LED. It logs and displays the results, making it easier to evaluate the reliability of your devices.
+**DoesItStillWork** is an Arduino-based project for monitoring the success rate of power cycles for devices with an LCD screen or power LED. It logs and displays the results, making it easier to evaluate the reliability of your power button 🤣
 
 ## Features
 - Tracks total power cycles, successful attempts, and failures.
